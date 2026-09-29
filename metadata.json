@@ -1,0 +1,6 @@
+{
+  "name": "Covertech Inteligência em Segurança",
+  "description": "Site institucional e de alta conversão da Covertech Inteligência em Segurança. Consultoria, monitoramento 24h, segurança eletrônica e controle de acesso em Curitiba e região.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,16 @@
+export { Header } from './Header';
+export { Hero } from './Hero';
+export { CyberSplashIntro } from './CyberSplashIntro';
+export { TrustBadges } from './TrustBadges';
+export { UrgencyBar } from './UrgencyBar';
+export { Services } from './Services';
+export { BudgetCalculator } from './BudgetCalculator';
+export { WhyCovertech } from './WhyCovertech';
+export { ProjectsGallery } from './ProjectsGallery';
+export { FinalCTA } from './FinalCTA';
+export { Footer } from './Footer';
+export { CoverBot } from './CoverBot';
+export { FloatingWhatsApp } from './FloatingWhatsApp';
+export { FloatingInstagram } from './FloatingInstagram';
+export { ExitIntentModal } from './ExitIntentModal';
+export { Logo } from './Logo';
